@@ -1,0 +1,14 @@
+/Users/dianakravets/Data/IV sem/Cw6/Cw6/bin/Debug/netcoreapp2.2/Cw6.deps.json
+/Users/dianakravets/Data/IV sem/Cw6/Cw6/bin/Debug/netcoreapp2.2/Cw6.runtimeconfig.json
+/Users/dianakravets/Data/IV sem/Cw6/Cw6/bin/Debug/netcoreapp2.2/Cw6.runtimeconfig.dev.json
+/Users/dianakravets/Data/IV sem/Cw6/Cw6/bin/Debug/netcoreapp2.2/Cw6.dll
+/Users/dianakravets/Data/IV sem/Cw6/Cw6/bin/Debug/netcoreapp2.2/Cw6.pdb
+/Users/dianakravets/Data/IV sem/Cw6/Cw6/obj/Debug/netcoreapp2.2/Cw6.csprojAssemblyReference.cache
+/Users/dianakravets/Data/IV sem/Cw6/Cw6/obj/Debug/netcoreapp2.2/Cw6.csproj.CoreCompileInputs.cache
+/Users/dianakravets/Data/IV sem/Cw6/Cw6/obj/Debug/netcoreapp2.2/Cw6.RazorAssemblyInfo.cache
+/Users/dianakravets/Data/IV sem/Cw6/Cw6/obj/Debug/netcoreapp2.2/Cw6.RazorAssemblyInfo.cs
+/Users/dianakravets/Data/IV sem/Cw6/Cw6/obj/Debug/netcoreapp2.2/Cw6.AssemblyInfoInputs.cache
+/Users/dianakravets/Data/IV sem/Cw6/Cw6/obj/Debug/netcoreapp2.2/Cw6.AssemblyInfo.cs
+/Users/dianakravets/Data/IV sem/Cw6/Cw6/obj/Debug/netcoreapp2.2/Cw6.RazorTargetAssemblyInfo.cache
+/Users/dianakravets/Data/IV sem/Cw6/Cw6/obj/Debug/netcoreapp2.2/Cw6.dll
+/Users/dianakravets/Data/IV sem/Cw6/Cw6/obj/Debug/netcoreapp2.2/Cw6.pdb

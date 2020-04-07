@@ -1,0 +1,20 @@
+Metoda - GET Sciezka - /api/values QueryString -  Body - 
+Metoda - POST Sciezka - /api/values QueryString - ?FirstName=Kasia Body - {
+	"IndexNumber":"s32333",
+	"FirstName":"oleh"
+}
+Metoda - POST Sciezka - /api/values QueryString - ?FirstName=Kasia Body - {
+	"IndexNumber":"s3000"
+	
+}
+Metoda - GET Sciezka - /api/values QueryString -  Body - 
+Metoda - POST Sciezka - /api/values QueryString - ?IndexNumber=s12321 Body - {
+	"IndexNumber":"s3000"
+	
+}
+Metoda - GET Sciezka - /api/values QueryString -  Body - 
+Metoda - POST Sciezka - /api/values QueryString - ?FirstName=Kolia Body - {
+
+	"Lastname":"Nowak"
+	
+}
